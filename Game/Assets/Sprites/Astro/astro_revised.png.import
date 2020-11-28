@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/generic_craters_tile_64.png-adbca78372f5131f13c45fc438f2628a.stex"
+path="res://.import/astro_revised.png-a2ca9e96b31adfbd85da7fd183704a83.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Tiles/generic_craters_tile_64.png"
-dest_files=[ "res://.import/generic_craters_tile_64.png-adbca78372f5131f13c45fc438f2628a.stex" ]
+source_file="res://Assets/Sprites/Astro/astro_revised.png"
+dest_files=[ "res://.import/astro_revised.png-a2ca9e96b31adfbd85da7fd183704a83.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/astro_front.png-3dcbb731e4586d0b9c842b05c902e8e2.stex"
+path="res://.import/Astro_right.png-0239e1e423fb56bbaa058d25f82af8b0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Astro/astro_front.png"
-dest_files=[ "res://.import/astro_front.png-3dcbb731e4586d0b9c842b05c902e8e2.stex" ]
+source_file="res://Assets/Sprites/Astro/Astro_right.png"
+dest_files=[ "res://.import/Astro_right.png-0239e1e423fb56bbaa058d25f82af8b0.stex" ]
 
 [params]
 
